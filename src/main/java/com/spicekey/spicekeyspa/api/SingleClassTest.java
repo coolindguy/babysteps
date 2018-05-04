@@ -15,6 +15,7 @@ public class SingleClassTest {
 	static {
 		nameOfEmployees.add("Raman Sharma");
 		nameOfEmployees.add("Anamika Sharma");
+		nameOfEmployees.add("Kala Sharma");
 	}
 	
     @Value("${employee.name}")
