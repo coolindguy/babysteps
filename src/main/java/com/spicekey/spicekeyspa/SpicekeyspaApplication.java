@@ -1,12 +1,12 @@
-package com.microkey.microkeyapp;
+package com.spicekey.spicekeyspa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MicrokeyApplication {
+public class SpicekeyspaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MicrokeyApplication.class, args);
+		SpringApplication.run(SpicekeyspaApplication.class, args);
 	}
 }

@@ -1,4 +1,4 @@
-package com.microkey.microkeyapp;
+package com.spicekey.spicekeyspa;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class MicrokeyApplicationTests {
+public class SpicekeyspaApplicationTests {
 
 	@Test
 	public void contextLoads() {
